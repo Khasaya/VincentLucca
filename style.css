@@ -1,0 +1,29 @@
+.wrapper{
+    background-color: aqua;
+}
+#form,input{
+    text-align: center;
+    margin: 0.5em;
+    padding: 10px;
+}
+
+
+.nav-bar,a{
+    overflow: hidden;
+    background-color: brown;
+    margin: 5px;
+    padding: 1.2em;
+    color: aqua;
+    font-size: large;
+    text-align: right;
+}
+#email{
+    margin: 10px;
+    width: 400px;
+}
+#button{
+    background-color: blueviolet;
+    padding: 0;
+    height: 45px;
+    width: 150px;
+}
